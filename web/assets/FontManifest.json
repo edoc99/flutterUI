@@ -1,0 +1,18 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": ""
+            }
+        ]
+    },
+    {
+        "family": "ComfortaaRegular",
+        "fonts": [
+            {
+                "asset": "Comfortaa-Regular.ttf"
+            }                
+        ]
+    }
+]
